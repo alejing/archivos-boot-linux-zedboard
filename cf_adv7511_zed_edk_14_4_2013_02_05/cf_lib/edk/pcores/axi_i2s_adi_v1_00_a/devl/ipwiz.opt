@@ -1,0 +1,8 @@
+-batch 
+-create axi_i2s_adi 
+-ver 1.00.a 
+-dir "D:\Temp\I2S_Test\microblaze" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 12 
+-xps 
